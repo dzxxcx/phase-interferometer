@@ -3,26 +3,26 @@ https://zhuanlan.zhihu.com/p/708685282
 
 相位模糊
 
-![image](https://github.com/user-attachments/assets/f8585b80-a15f-4686-ada9-b7b66e4b1808)
+![image](https://github.com/user-attachments/assets/0f0ffd59-e3bf-43b3-821e-a0b197c2278b)
 
 d=2λ
 
-![image](https://github.com/user-attachments/assets/bd60656b-050b-4279-9ac9-b8c643f8ec43)
+![image](https://github.com/user-attachments/assets/24d8c2c3-18c7-45a6-bc7a-74cfe12ec4e4)
 
 2d=λ
 
 测角误差
 
-![image](https://github.com/user-attachments/assets/888027a5-7746-4ce2-b131-6b74dec3e02e)
+![image](https://github.com/user-attachments/assets/66c0980b-bdd9-41ad-a951-fe93f5f051c1)
 
 鉴相器误差对测角误差的影响
 
-![image](https://github.com/user-attachments/assets/7c1eabc8-e216-463f-a365-20fad20759c2)
+![image](https://github.com/user-attachments/assets/39dd665f-ca38-4b70-be13-ab612f22be02)
 
 信号频率误差对测角误差的影响
 
 长短基线相位干涉仪
 
-![image](https://github.com/user-attachments/assets/cf82b75e-9288-42c5-afca-cf762cb3b722)
+![image](https://github.com/user-attachments/assets/12fbc48f-baa5-4b63-a4c7-1647f6f84f2c)
 
 长基线解模糊对比
